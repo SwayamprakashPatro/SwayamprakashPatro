@@ -1,4 +1,4 @@
-👋 Hi, I’m @SwayamprakashPatro
-👀 Interested in Java Development and Python
-🌱 Currently learning Advanced Java, Software Development and Data Science using Python 
-📫 Reach me at: swayamprakashpatro@gmail.com
+- 👋 Hi, I’m **@SwayamprakashPatro**
+- 👀 I’m interested in **Java development and Python**
+- 🌱 I’m currently learning **Advanced Java, Data Science with Python and Software Development**
+- 📫 How to reach me: **swayamprakashpatro@gmail.com**
